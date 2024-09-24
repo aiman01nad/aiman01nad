@@ -2,7 +2,7 @@
 -
 I’m a fourth year computer science student at NTNU, with a specialization in artificial intellingence.
 
-👀 I am interested in all aspects of software development, with most experience with backend, but I have also worked with frontend.
+👀 I am interested in all aspects of software development, and have worked with both frontend and backend.
 
 :flashlight: Skills:
 -
