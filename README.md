@@ -13,7 +13,6 @@ I’m a fourth year computer science student at NTNU, with a specialization in a
 
 📫 How to reach me: 
  - 
- - Phone: (+47) 45084360
  - E-mail: aiman01nadeem@gmail.com
  - Linkedin: https://www.linkedin.com/in/aiman-nadeem-82a285294/
 
